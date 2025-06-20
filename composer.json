@@ -1,0 +1,19 @@
+{
+    "name": "ali-eltaweel/bitmask",
+    "version": "0.0.0",
+    "description": "A simple bitmask library for PHP",
+    "maintainers": [
+        {
+            "name": "Ali M. Kamel",
+            "email": "ali.kamel.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bitmask\\": "src/"
+        }
+    }
+}
